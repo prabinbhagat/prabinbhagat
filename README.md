@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabin Bhagat
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning Selenium and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prabinbhagat@gmail.com
 
